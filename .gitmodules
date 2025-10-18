@@ -1,0 +1,15 @@
+[submodule "ensemble/MS11/♫UncommonNoises"]
+	path = ensemble/MS11/♫UncommonNoises
+	url = https://github.com/AdrianArtacho/score_uncommonnoises.git
+[submodule "ensemble/MS11/♫AllAboutThatBass"]
+	path = ensemble/MS11/♫AllAboutThatBass
+	url = https://github.com/AdrianArtacho/score_allaboutthatbass.git
+[submodule "ensemble/MS11/♫Hymn"]
+	path = ensemble/MS11/♫Hymn
+	url = https://github.com/AdrianArtacho/score_hymn.git
+[submodule "ensemble/MS11/♫ComeOutAndPlay"]
+	path = ensemble/MS11/♫ComeOutAndPlay
+	url = https://github.com/AdrianArtacho/score_ComeOutAndPlay.git
+[submodule "ensemble/MS15/♫AlorsOnDanse"]
+	path = ensemble/MS15/♫AlorsOnDanse
+	url = https://github.com/AdrianArtacho/ms15_alorsondanse.git
