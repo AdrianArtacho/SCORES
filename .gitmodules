@@ -34,3 +34,6 @@
 [submodule "pieces/♫Ricercar"]
 	path = pieces/♫Ricercar
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/ricercar.git
+[submodule "ensemble/☰RockFossils"]
+	path = ensemble/☰RockFossils
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/rockfossils.git
