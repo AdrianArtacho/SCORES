@@ -34,3 +34,6 @@
 [submodule "☰JOST"]
 	path = ☰JOST
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/dfal-jost.git
+[submodule "☰PierrotMartien"]
+	path = ☰PierrotMartien
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/pierrot-martien.git
