@@ -28,3 +28,9 @@
 [submodule "brainchild/☰Timefolds"]
 	path = brainchild/☰Timefolds
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/timefolds.git
+[submodule "☰PaukenUndPalaeste"]
+	path = ☰PaukenUndPalaeste
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/paukenundpalaeste.git
+[submodule "brainchild/☰brainchild"]
+	path = brainchild/☰brainchild
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/brainchild.git
