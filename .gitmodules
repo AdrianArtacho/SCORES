@@ -34,3 +34,6 @@
 [submodule "ensemble/☰RockFossils"]
 	path = ensemble/☰RockFossils
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/rockfossils.git
+[submodule "☰JOST"]
+	path = ☰JOST
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/dfal-jost.git
