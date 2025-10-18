@@ -19,3 +19,12 @@
 [submodule "ensemble/JungeAkademie/🗃HoeleDesDrachens"]
 	path = ensemble/JungeAkademie/🗃HoeleDesDrachens
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/hohledesdrachens.git
+[submodule "ensemble/Osnabrueck/🗃RockFossils"]
+	path = ensemble/Osnabrueck/🗃RockFossils
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/rockfossils.git
+[submodule "🗃PierrotMartien"]
+	path = 🗃PierrotMartien
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/pierrot-martien.git
+[submodule "brainchild/☰Timefolds"]
+	path = brainchild/☰Timefolds
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/timefolds.git
