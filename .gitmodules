@@ -34,3 +34,6 @@
 [submodule "brainchild/☰brainchild"]
 	path = brainchild/☰brainchild
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/brainchild.git
+[submodule "pieces/♫Ricercar"]
+	path = pieces/♫Ricercar
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/ricercar.git
