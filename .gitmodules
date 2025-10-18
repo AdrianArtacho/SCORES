@@ -13,3 +13,9 @@
 [submodule "ensemble/MS15/♫AlorsOnDanse"]
 	path = ensemble/MS15/♫AlorsOnDanse
 	url = https://github.com/AdrianArtacho/ms15_alorsondanse.git
+[submodule "🗃JOST"]
+	path = 🗃JOST
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/dfal-jost.git
+[submodule "ensemble/JungeAkademie/🗃HoeleDesDrachens"]
+	path = ensemble/JungeAkademie/🗃HoeleDesDrachens
+	url = https://AdrianArtacho@bitbucket.org/artachoscores/hohledesdrachens.git
