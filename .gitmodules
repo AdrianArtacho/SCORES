@@ -40,3 +40,6 @@ url=https://github.com/AdrianArtacho/pierrot-martien
 [submodule "☰Venedig"]
 	path = ☰Venedig
 url=https://github.com/AdrianArtacho/venedig-unter
+[submodule "pieces/♫LuzAzul"]
+	path = pieces/♫LuzAzul
+	url = https://github.com/AdrianArtacho/luzazul.git
