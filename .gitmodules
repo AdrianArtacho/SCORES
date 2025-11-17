@@ -43,3 +43,6 @@ url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "pieces/♫LuzAzul"]
 	path = pieces/♫LuzAzul
 	url = https://github.com/AdrianArtacho/luzazul.git
+[submodule "☰Batik"]
+	path = ☰Batik
+	url = https://github.com/AdrianArtacho/Batik.git
