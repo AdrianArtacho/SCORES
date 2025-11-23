@@ -46,3 +46,6 @@ url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "☰Batik"]
 	path = ☰Batik
 	url = https://github.com/AdrianArtacho/Batik.git
+[submodule "songs/♫runaway"]
+	path = songs/♫runaway
+	url = https://github.com/AdrianArtacho/runaway.git
