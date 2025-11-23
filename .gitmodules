@@ -33,7 +33,7 @@
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/rockfossils.git
 [submodule "☰JOST"]
 	path = ☰JOST
-	url = https://AdrianArtacho@bitbucket.org/artachoscores/dfal-jost.git
+url=https://github.com/AdrianArtacho/JOST.git
 [submodule "☰PierrotMartien"]
 	path = ☰PierrotMartien
 url=https://github.com/AdrianArtacho/pierrot-martien
