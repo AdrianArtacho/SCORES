@@ -18,7 +18,7 @@
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/hohledesdrachens.git
 [submodule "brainchild/☰Timefolds"]
 	path = brainchild/☰Timefolds
-	url = https://AdrianArtacho@bitbucket.org/artachoscores/timefolds.git
+url=https://github.com/AdrianArtacho/Timefolds.git
 [submodule "☰PaukenUndPalaeste"]
 	path = ☰PaukenUndPalaeste
 url=https://github.com/AdrianArtacho/paukenundpalaeste.git
