@@ -24,7 +24,7 @@ url=https://github.com/AdrianArtacho/Timefolds.git
 url=https://github.com/AdrianArtacho/paukenundpalaeste.git
 [submodule "brainchild/☰brainchild"]
 	path = brainchild/☰brainchild
-	url = https://AdrianArtacho@bitbucket.org/artachoscores/brainchild.git
+url=https://github.com/AdrianArtacho/BRAINCHILD.git
 [submodule "pieces/♫Ricercar"]
 	path = pieces/♫Ricercar
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/ricercar.git
