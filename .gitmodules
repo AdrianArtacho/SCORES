@@ -52,3 +52,6 @@ url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "pieces/♫Piccolo"]
 	path = pieces/♫Piccolo
 	url = https://github.com/AdrianArtacho/piccolo.git
+[submodule "tools"]
+	path = tools
+	url = https://github.com/AdrianArtacho/git_tools.git
