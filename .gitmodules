@@ -55,3 +55,6 @@ url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "tools"]
 	path = tools
 	url = https://github.com/AdrianArtacho/git_tools.git
+[submodule "pieces/♫Immersio"]
+	path = pieces/♫Immersio
+	url = https://github.com/AdrianArtacho/immersio.git
