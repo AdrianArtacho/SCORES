@@ -30,7 +30,7 @@ url=https://github.com/AdrianArtacho/BRAINCHILD.git
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/ricercar.git
 [submodule "ensemble/☰RockFossils"]
 	path = ensemble/☰RockFossils
-	url = https://AdrianArtacho@bitbucket.org/artachoscores/rockfossils.git
+url=https://github.com/AdrianArtacho/RockFossils.git
 [submodule "☰JOST"]
 	path = ☰JOST
 url=https://github.com/AdrianArtacho/JOST.git
