@@ -58,3 +58,6 @@ url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "pieces/♫Immersio"]
 	path = pieces/♫Immersio
 	url = https://github.com/AdrianArtacho/immersio.git
+[submodule "ensemble/☰ESC"]
+	path = ensemble/☰ESC
+	url = https://github.com/AdrianArtacho/ESC.git
