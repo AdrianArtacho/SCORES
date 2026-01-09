@@ -20,7 +20,7 @@
 	path = brainchild/☰Timefolds
 url=https://github.com/AdrianArtacho/Timefolds.git
 [submodule "☰PaukenUndPalaeste"]
-	path = ☰PaukenUndPalaeste
+	path = PROJ/☰PaukenUndPalaeste
 url=https://github.com/AdrianArtacho/paukenundpalaeste.git
 [submodule "brainchild/☰brainchild"]
 	path = brainchild/☰brainchild
@@ -44,7 +44,7 @@ url=https://github.com/AdrianArtacho/venedig-unter
 	path = pieces/♫LuzAzul
 	url = https://github.com/AdrianArtacho/luzazul.git
 [submodule "☰Batik"]
-	path = ☰Batik
+	path = PROJ/☰Batik
 	url = https://github.com/AdrianArtacho/Batik.git
 [submodule "songs/♫runaway"]
 	path = songs/♫runaway
@@ -62,5 +62,5 @@ url=https://github.com/AdrianArtacho/venedig-unter
 	path = ensemble/☰ESC
 	url = https://github.com/AdrianArtacho/ESC.git
 [submodule "☰Ludwig"]
-	path = ☰Ludwig
+	path = PROJ/☰Ludwig
 	url = https://github.com/AdrianArtacho/LudwigsSketchbooks.git
