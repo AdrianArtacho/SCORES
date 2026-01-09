@@ -15,7 +15,7 @@
 	url = https://github.com/AdrianArtacho/ms15_alorsondanse.git
 [submodule "ensemble/JungeAkademie/🗃HoeleDesDrachens"]
 	path = Lehre/JungeAkademie/🗃HoeleDesDrachens
-url=https://github.com/AdrianArtacho/H-hleDesDrachens.git
+url=https://github.com/AdrianArtacho/HoehleDesDrachens.git
 [submodule "brainchild/☰Timefolds"]
 	path = brainchild/☰Timefolds
 url=https://github.com/AdrianArtacho/Timefolds.git
