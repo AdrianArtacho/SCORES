@@ -64,3 +64,6 @@ url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "☰Ludwig"]
 	path = PROJ/☰Ludwig
 	url = https://github.com/AdrianArtacho/LudwigsSketchbooks.git
+[submodule "PROJ/☰SONGS"]
+	path = PROJ/☰SONGS
+	url = https://github.com/AdrianArtacho/SONGBOOK.git
