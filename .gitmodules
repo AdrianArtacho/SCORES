@@ -1,20 +1,20 @@
 [submodule "ensemble/MS11/♫UncommonNoises"]
-	path = ensemble/MS11/♫UncommonNoises
+	path = Lehre/MS11/♫UncommonNoises
 	url = https://github.com/AdrianArtacho/score_uncommonnoises.git
 [submodule "ensemble/MS11/♫AllAboutThatBass"]
-	path = ensemble/MS11/♫AllAboutThatBass
+	path = Lehre/MS11/♫AllAboutThatBass
 	url = https://github.com/AdrianArtacho/score_allaboutthatbass.git
 [submodule "ensemble/MS11/♫Hymn"]
-	path = ensemble/MS11/♫Hymn
+	path = Lehre/MS11/♫Hymn
 	url = https://github.com/AdrianArtacho/score_hymn.git
 [submodule "ensemble/MS11/♫ComeOutAndPlay"]
-	path = ensemble/MS11/♫ComeOutAndPlay
+	path = Lehre/MS11/♫ComeOutAndPlay
 	url = https://github.com/AdrianArtacho/score_ComeOutAndPlay.git
 [submodule "ensemble/MS15/♫AlorsOnDanse"]
-	path = ensemble/MS15/♫AlorsOnDanse
+	path = Lehre/MS15/♫AlorsOnDanse
 	url = https://github.com/AdrianArtacho/ms15_alorsondanse.git
 [submodule "ensemble/JungeAkademie/🗃HoeleDesDrachens"]
-	path = ensemble/JungeAkademie/🗃HoeleDesDrachens
+	path = Lehre/JungeAkademie/🗃HoeleDesDrachens
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/hohledesdrachens.git
 [submodule "brainchild/☰Timefolds"]
 	path = brainchild/☰Timefolds
@@ -26,10 +26,10 @@ url=https://github.com/AdrianArtacho/paukenundpalaeste.git
 	path = brainchild/☰brainchild
 url=https://github.com/AdrianArtacho/BRAINCHILD.git
 [submodule "pieces/♫Ricercar"]
-	path = pieces/♫Ricercar
+	path = Works/♫Ricercar
 	url = https://AdrianArtacho@bitbucket.org/artachoscores/ricercar.git
 [submodule "ensemble/☰RockFossils"]
-	path = ensemble/☰RockFossils
+	path = Lehre/☰RockFossils
 url=https://github.com/AdrianArtacho/RockFossils.git
 [submodule "☰JOST"]
 	path = PROJ/☰JOST
@@ -41,7 +41,7 @@ url=https://github.com/AdrianArtacho/pierrot-martien
 	path = PROJ/☰Venedig
 url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "pieces/♫LuzAzul"]
-	path = pieces/♫LuzAzul
+	path = Works/♫LuzAzul
 	url = https://github.com/AdrianArtacho/luzazul.git
 [submodule "☰Batik"]
 	path = PROJ/☰Batik
@@ -50,16 +50,16 @@ url=https://github.com/AdrianArtacho/venedig-unter
 	path = songs/♫runaway
 	url = https://github.com/AdrianArtacho/runaway.git
 [submodule "pieces/♫Piccolo"]
-	path = pieces/♫Piccolo
+	path = Works/♫Piccolo
 	url = https://github.com/AdrianArtacho/piccolo.git
 [submodule "tools"]
 	path = tools
 	url = https://github.com/AdrianArtacho/git_tools.git
 [submodule "pieces/♫Immersio"]
-	path = pieces/♫Immersio
+	path = Works/♫Immersio
 	url = https://github.com/AdrianArtacho/immersio.git
 [submodule "ensemble/☰ESC"]
-	path = ensemble/☰ESC
+	path = Lehre/☰ESC
 	url = https://github.com/AdrianArtacho/ESC.git
 [submodule "☰Ludwig"]
 	path = PROJ/☰Ludwig
