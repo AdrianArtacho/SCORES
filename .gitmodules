@@ -61,3 +61,6 @@ url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "ensemble/☰ESC"]
 	path = ensemble/☰ESC
 	url = https://github.com/AdrianArtacho/ESC.git
+[submodule "☰Ludwig"]
+	path = ☰Ludwig
+	url = https://github.com/AdrianArtacho/LudwigsSketchbooks.git
