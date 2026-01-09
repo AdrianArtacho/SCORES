@@ -35,7 +35,7 @@ url=https://github.com/AdrianArtacho/RockFossils.git
 	path = ☰JOST
 url=https://github.com/AdrianArtacho/JOST.git
 [submodule "☰PierrotMartien"]
-	path = ☰PierrotMartien
+	path = PROJ/☰PierrotMartien
 url=https://github.com/AdrianArtacho/pierrot-martien
 [submodule "☰Venedig"]
 	path = ☰Venedig
