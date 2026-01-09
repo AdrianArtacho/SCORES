@@ -32,13 +32,13 @@ url=https://github.com/AdrianArtacho/BRAINCHILD.git
 	path = ensemble/☰RockFossils
 url=https://github.com/AdrianArtacho/RockFossils.git
 [submodule "☰JOST"]
-	path = ☰JOST
+	path = PROJ/☰JOST
 url=https://github.com/AdrianArtacho/JOST.git
 [submodule "☰PierrotMartien"]
 	path = PROJ/☰PierrotMartien
 url=https://github.com/AdrianArtacho/pierrot-martien
 [submodule "☰Venedig"]
-	path = ☰Venedig
+	path = PROJ/☰Venedig
 url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "pieces/♫LuzAzul"]
 	path = pieces/♫LuzAzul
