@@ -70,3 +70,6 @@ url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "PROJ/☰PuntosDeFuga"]
 	path = PROJ/☰PuntosDeFuga
 	url = https://github.com/AdrianArtacho/PuntosDeFuga.git
+[submodule "Works/♫Parallax"]
+	path = Works/♫Parallax
+	url = https://github.com/AdrianArtacho/Parallax.git
