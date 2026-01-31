@@ -67,3 +67,6 @@ url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "Works/♫Frauenhuber"]
 	path = Works/♫Frauenhuber
 	url = https://github.com/AdrianArtacho/Frauenhuber.git
+[submodule "PROJ/☰PuntosDeFuga"]
+	path = PROJ/☰PuntosDeFuga
+	url = https://github.com/AdrianArtacho/PuntosDeFuga.git
