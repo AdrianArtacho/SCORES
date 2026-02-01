@@ -73,3 +73,6 @@ url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "Works/♫Parallax"]
 	path = Works/♫Parallax
 	url = https://github.com/AdrianArtacho/Parallax.git
+[submodule "Works/♫Inquietudine"]
+	path = Works/♫Inquietudine
+	url = https://github.com/AdrianArtacho/Inquietudine.git
