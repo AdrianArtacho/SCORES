@@ -46,9 +46,6 @@ url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "☰Batik"]
 	path = PROJ/☰Batik
 	url = https://github.com/AdrianArtacho/Batik.git
-[submodule "pieces/♫Piccolo"]
-	path = Works/♫Piccolo
-	url = https://github.com/AdrianArtacho/piccolo.git
 [submodule "tools"]
 	path = tools
 	url = https://github.com/AdrianArtacho/git_tools.git
