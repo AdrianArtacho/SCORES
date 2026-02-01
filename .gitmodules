@@ -76,3 +76,6 @@ url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "Works/♫Inquietudine"]
 	path = Works/♫Inquietudine
 	url = https://github.com/AdrianArtacho/Inquietudine.git
+[submodule "Works/♫SEEDS"]
+	path = Works/♫SEEDS
+	url = https://github.com/AdrianArtacho/SEEDS.git
