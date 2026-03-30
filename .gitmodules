@@ -52,9 +52,6 @@ url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "pieces/♫Immersio"]
 	path = Works/♫Immersio
 	url = https://github.com/AdrianArtacho/immersio.git
-[submodule "ensemble/☰ESC"]
-	path = Lehre/☰ESC
-	url = https://github.com/AdrianArtacho/ESC.git
 [submodule "☰Ludwig"]
 	path = PROJ/☰Ludwig
 	url = https://github.com/AdrianArtacho/LudwigsSketchbooks.git
@@ -76,3 +73,6 @@ url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "Works/♫SEEDS"]
 	path = Works/♫SEEDS
 	url = https://github.com/AdrianArtacho/SEEDS.git
+[submodule "Lehre/MS11/☰EPC"]
+	path = Lehre/MS11/☰EPC
+	url = https://github.com/AdrianArtacho/EPC.git
