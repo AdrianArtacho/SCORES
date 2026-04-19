@@ -76,9 +76,6 @@ url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "Lehre/MS11/☰EPC"]
 	path = Lehre/MS11/☰EPC
 	url = https://github.com/AdrianArtacho/EPC.git
-[submodule "Works/♫Angine"]
-	path = Works/♫Angine
-	url = https://github.com/AdrianArtacho/Angine.git
 [submodule "PROJ/☰Archipelago"]
 	path = PROJ/☰Archipelago
 	url = https://github.com/AdrianArtacho/Archipelago.git
