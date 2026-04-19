@@ -82,3 +82,6 @@ url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "PROJ/☰Archipelago"]
 	path = PROJ/☰Archipelago
 	url = https://github.com/AdrianArtacho/Archipelago.git
+[submodule "PROJ/☰Sabotâge"]
+	path = PROJ/☰Sabotâge
+	url = https://github.com/AdrianArtacho/sabotage.git
