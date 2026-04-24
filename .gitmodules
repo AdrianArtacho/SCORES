@@ -85,3 +85,6 @@ url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "Works/♫Advance"]
 	path = Works/♫Advance
 	url = https://github.com/AdrianArtacho/Advance.git
+[submodule "Lehre/☰NoInputMixing"]
+	path = Lehre/☰NoInputMixing
+	url = https://github.com/AdrianArtacho/NoInputMixing.git
