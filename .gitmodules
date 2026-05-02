@@ -88,3 +88,6 @@ url=https://github.com/AdrianArtacho/venedig-unter
 [submodule "Lehre/☰NoInputMixing"]
 	path = Lehre/☰NoInputMixing
 	url = https://github.com/AdrianArtacho/NoInputMixing.git
+[submodule "PROJ/☰EPOS"]
+	path = PROJ/☰EPOS
+	url = https://github.com/AdrianArtacho/EPOS.git
